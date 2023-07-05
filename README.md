@@ -21,3 +21,4 @@
     `git push <WHERE> <WHAT>` : pushes the <WHAT> branch to <WHERE>
     `git push origin main`  
     `git remote rm <NAME>`: removes the remote called <NAME>
+-  `git pull` <WHERE> <WHAT>` : pulls the <WHAT> branch in <WHERE> to local computer
